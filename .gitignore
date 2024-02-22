@@ -2,3 +2,5 @@
 /.idea/
 /composer.lock
 .phpunit.*
+config.bat
+node_modules
